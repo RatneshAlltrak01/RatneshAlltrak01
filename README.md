@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RatneshAlltrak01
 - 👀 I’m interested in full stack web development(MERN)
-- 🌱 I’m currently learning mysql
+- 🌱 I’m currently learning nextJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ratneshkrkamat@gmail.com
 
